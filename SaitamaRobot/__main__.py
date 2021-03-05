@@ -240,13 +240,13 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🧾 Support on Instagram ",
-                                url="https://t.me/techsutta",
+                                text="❤️ Support on Instagram ❤️ ",
+                                url="https://www.instagram.com/concepts.editing/",
                             )
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🗄 Support On Youtube",
+                                text="❤️ Support On Youtube ❤️",
                                 url="https://www.youtube.com/channel/UCQ75HMDuboeXg59Aa7wicMg",
                             )
                         ],
